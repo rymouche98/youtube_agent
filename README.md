@@ -48,13 +48,6 @@ youtube_agent/
    adk web
    ```
 
-## Dependencies
-- `google.genai`
-- `youtube_transcript_api`
-- `dotenv`
 
 ## Contributing
 Feel free to submit issues or pull requests for improvements.
-
-## License
-This project is licensed under the MIT License.
